@@ -16,9 +16,7 @@ import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Created by nowcoder on 2016/7/30.
- */
+
 @Component
 public class FollowHandler implements EventHandler {
     @Autowired
