@@ -1,8 +1,6 @@
 package com.nowcoder.util;
 
-/**
- * Created by nowcoder on 2016/7/30.
- */
+
 public class RedisKeyUtil {
     private static String SPLIT = ":";
     private static String BIZ_LIKE = "LIKE";
