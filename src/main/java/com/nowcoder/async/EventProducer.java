@@ -9,9 +9,7 @@ import org.springframework.stereotype.Service;
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 
-/**
- * Created by nowcoder on 2016/7/30.
- */
+
 @Service
 public class EventProducer {
     @Autowired
