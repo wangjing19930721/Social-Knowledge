@@ -19,9 +19,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import java.util.Date;
 
-/**
- * Created by nowcoder on 2016/7/24.
- */
+
 @Controller
 public class CommentController {
     private static final Logger logger = LoggerFactory.getLogger(CommentController.class);
