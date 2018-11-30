@@ -6,9 +6,6 @@ import org.apache.ibatis.annotations.*;
 
 import java.util.List;
 
-/**
- * Created by nowcoder on 2016/7/2.
- */
 @Mapper
 public interface FeedDAO {
     String TABLE_NAME = " feed ";
