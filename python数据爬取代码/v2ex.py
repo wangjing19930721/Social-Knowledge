@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
-# Created on 2016-08-17 11:11:46
-# Project: v2ex
+
 
 from pyspider.libs.base_handler import *
 import re
