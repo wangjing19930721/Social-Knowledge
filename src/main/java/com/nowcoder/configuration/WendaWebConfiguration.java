@@ -7,9 +7,7 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
-/**
- * Created by nowcoder on 2016/7/3.
- */
+
 @Component
 public class WendaWebConfiguration extends WebMvcConfigurerAdapter {
     @Autowired
