@@ -5,9 +5,7 @@ import com.nowcoder.util.RedisKeyUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-/**
- * Created by nowcoder on 2016/7/30.
- */
+
 @Service
 public class LikeService {
     @Autowired
