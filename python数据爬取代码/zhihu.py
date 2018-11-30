@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
-# Created on 2016-08-19 14:21:53
-# Project: zhihu
+
+
 
 from pyspider.libs.base_handler import *
 import random
