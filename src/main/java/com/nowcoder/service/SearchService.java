@@ -13,9 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by nowcoder on 2016/8/28.
- */
+
 @Service
 public class SearchService {
     private static final String SOLR_URL = "http://127.0.0.1:8983/solr/wenda";
